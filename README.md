@@ -1,4 +1,4 @@
-# Brain-Tumor-Prediction
+# Brain-Tumor-Classification 
 
 ### Team
 
